@@ -1,0 +1,56 @@
+Begin of Summary Report:
+Total Reads = 363246735
+Total Valid Reads = 301766024
+Total Hopped Reads = 617111
+Total Unknown Reads = 60863600
+The percentage of Unknown Reads that occurred is 3.313825681051489e-07. %
+The percentage of TACCGGAT_ATCCGGTA that occurred is 22.80315228595781. %
+The percentage of CTCTGGAT_ATCCAGAG that occurred is 10.439935080299167. %
+The percentage of AGAGTCCA_TGGACTCT that occurred is 3.508362492127344. %
+The percentage of GTAGCGTA_TACGCTAC that occurred is 2.3528762137913843. %
+The percentage of ATCATGCG_CGCATGAT that occurred is 3.1109622201868556. %
+The percentage of AACAGCGA_TCGCTGTT that occurred is 2.733815388043818. %
+The percentage of TCGACAAG_CTTGTCGA that occurred is 1.1760459156263396. %
+The percentage of TCGAGAGT_ACTCTCGA that occurred is 3.4994509521058608. %
+The percentage of CGGTAATC_GATTACCG that occurred is 1.432079046778308. %
+The percentage of TAGCCATG_CATGGCTA that occurred is 3.168884579265955. %
+The percentage of TCTTCGAC_GTCGAAGA that occurred is 12.579264390612774. %
+The percentage of CTAGCTCA_TGAGCTAG that occurred is 5.389725716769228. %
+The percentage of TATGGCAC_GTGCCATA that occurred is 3.4110755291656023. %
+The percentage of ACGATCAG_CTGATCGT that occurred is 2.483259679360059. %
+The percentage of GATCTTGC_GCAAGATC that occurred is 1.1029266833565068. %
+The percentage of Hopped Reads that occurred is 3.313825681051489e-07. %
+The percentage of AGGATAGC_GCTATCCT that occurred is 2.6287266852811766. %
+The percentage of TGTTCCGT_ACGGAACA that occurred is 4.88695506688321. %
+The percentage of CACTTCAC_GTGAAGTG that occurred is 1.282468101843036. %
+The percentage of GCTACTCT_AGAGTAGC that occurred is 2.216659089493786. %
+The percentage of ATCGTGGT_ACCACGAT that occurred is 2.0655705096873334. %
+The percentage of CGATCGAT_ATCGATCG that occurred is 1.7608009442441408. %
+The percentage of GTCCTAAG_CTTAGGAC that occurred is 2.680785892582791. %
+The percentage of GATCAAGG_CCTTGATC that occurred is 1.9080550963550487. %
+The percentage of TCGGATTC_GAATCCGA that occurred is 1.3781624401824641. %
+The overall amount of index swapping that occurred is 0.16988755590604276 %
+End of Summary Report
+	Command being timed: "./PT2.py -R1 1294_S1_L008_R1_001.fastq.gz -I1 ./1294_S1_L008_R2_001.fastq.gz -I2 ./1294_S1_L008_R3_001.fastq.gz -R2 ./1294_S1_L008_R4_001.fastq.gz -b ./indexes.txt -q 30"
+	User time (seconds): 30888.76
+	System time (seconds): 82.50
+	Percent of CPU this job got: 96%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:55:21
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 153504
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 388615
+	Voluntary context switches: 122466
+	Involuntary context switches: 9311
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
